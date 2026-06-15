@@ -10,7 +10,7 @@ enviar à imobiliária.
 
 ---
 
-## Visão geral em 30 segundos
+## Visão geral
 
 - **Cenário**: dois moradores (Morador 1 e Morador 2) compartilham um chat e
   decidem juntos o que perguntar à imobiliária.
