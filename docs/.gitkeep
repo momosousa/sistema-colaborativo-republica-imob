@@ -1,0 +1,2 @@
+Coloque aqui os PDFs (contrato de aluguel, IPTU, seguro incêndio, etc.).
+Na primeira execução, eles serão indexados no vectorstore (.chroma/).
